@@ -41,7 +41,7 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`cus_id`, `cus_nama`, `cus_alamat`, `cus_notlp`, `cus_password`) VALUES
-(1, 'fajri', 'Bantul, Yogyakarta', '087838916161', '123'),
+(1, 'fajri', 'Bantul, Yogyakarta', '083333123473', '123'),
 (2, 'kurnia', 'Bantul, Yogtakarta', '08783871231', '123'),
 (4536, 'dik', 'Jogja, Yogyakarta', '085734258900', '888'),
 (9897, 'daud', 'Yogyakarta', '085436787761', '777'),
