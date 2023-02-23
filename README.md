@@ -1,2 +1,1 @@
-# PRPL2019-Tiket-Sepak-Bola
-PRPL2019 Tiket Sepak Bola
+# pembuatan aplikasi Tiket-Sepak-Bola menggunakan PHP murni
